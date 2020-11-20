@@ -1,0 +1,12 @@
+C:\Users\Joan\Desktop\Joan\Intellutions\Intelutions.Challenge\Intelutions.Challenge.Domain\bin\Debug\netcoreapp3.1\Intelutions.Challenge.Domain.deps.json
+C:\Users\Joan\Desktop\Joan\Intellutions\Intelutions.Challenge\Intelutions.Challenge.Domain\bin\Debug\netcoreapp3.1\Intelutions.Challenge.Domain.dll
+C:\Users\Joan\Desktop\Joan\Intellutions\Intelutions.Challenge\Intelutions.Challenge.Domain\obj\Debug\netcoreapp3.1\Intelutions.Challenge.Domain.csprojAssemblyReference.cache
+C:\Users\Joan\Desktop\Joan\Intellutions\Intelutions.Challenge\Intelutions.Challenge.Domain\obj\Debug\netcoreapp3.1\Intelutions.Challenge.Domain.AssemblyInfoInputs.cache
+C:\Users\Joan\Desktop\Joan\Intellutions\Intelutions.Challenge\Intelutions.Challenge.Domain\obj\Debug\netcoreapp3.1\Intelutions.Challenge.Domain.AssemblyInfo.cs
+C:\Users\Joan\Desktop\Joan\Intellutions\Intelutions.Challenge\Intelutions.Challenge.Domain\bin\Debug\netcoreapp3.1\Intelutions.Challenge.Domain.runtimeconfig.json
+C:\Users\Joan\Desktop\Joan\Intellutions\Intelutions.Challenge\Intelutions.Challenge.Domain\bin\Debug\netcoreapp3.1\Intelutions.Challenge.Domain.runtimeconfig.dev.json
+C:\Users\Joan\Desktop\Joan\Intellutions\Intelutions.Challenge\Intelutions.Challenge.Domain\bin\Debug\netcoreapp3.1\Intelutions.Challenge.Domain.pdb
+C:\Users\Joan\Desktop\Joan\Intellutions\Intelutions.Challenge\Intelutions.Challenge.Domain\obj\Debug\netcoreapp3.1\Intelutions.Challenge.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Joan\Desktop\Joan\Intellutions\Intelutions.Challenge\Intelutions.Challenge.Domain\obj\Debug\netcoreapp3.1\Intelutions.Challenge.Domain.dll
+C:\Users\Joan\Desktop\Joan\Intellutions\Intelutions.Challenge\Intelutions.Challenge.Domain\obj\Debug\netcoreapp3.1\Intelutions.Challenge.Domain.pdb
+C:\Users\Joan\Desktop\Joan\Intellutions\Intelutions.Challenge\Intelutions.Challenge.Domain\obj\Debug\netcoreapp3.1\Intelutions.Challenge.Domain.genruntimeconfig.cache

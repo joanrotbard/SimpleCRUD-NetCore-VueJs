@@ -1,0 +1,15 @@
+C:\Users\Joan\Desktop\Joan\Intellutions\Intelutions.Challenge\Intelutions.Challenge.DAL\bin\Debug\netcoreapp3.1\Intelutions.Challenge.DAL.deps.json
+C:\Users\Joan\Desktop\Joan\Intellutions\Intelutions.Challenge\Intelutions.Challenge.DAL\bin\Debug\netcoreapp3.1\Intelutions.Challenge.DAL.dll
+C:\Users\Joan\Desktop\Joan\Intellutions\Intelutions.Challenge\Intelutions.Challenge.DAL\obj\Debug\netcoreapp3.1\Intelutions.Challenge.DAL.csprojAssemblyReference.cache
+C:\Users\Joan\Desktop\Joan\Intellutions\Intelutions.Challenge\Intelutions.Challenge.DAL\obj\Debug\netcoreapp3.1\Intelutions.Challenge.DAL.AssemblyInfoInputs.cache
+C:\Users\Joan\Desktop\Joan\Intellutions\Intelutions.Challenge\Intelutions.Challenge.DAL\obj\Debug\netcoreapp3.1\Intelutions.Challenge.DAL.AssemblyInfo.cs
+C:\Users\Joan\Desktop\Joan\Intellutions\Intelutions.Challenge\Intelutions.Challenge.DAL\bin\Debug\netcoreapp3.1\Intelutions.Challenge.DAL.runtimeconfig.json
+C:\Users\Joan\Desktop\Joan\Intellutions\Intelutions.Challenge\Intelutions.Challenge.DAL\bin\Debug\netcoreapp3.1\Intelutions.Challenge.DAL.runtimeconfig.dev.json
+C:\Users\Joan\Desktop\Joan\Intellutions\Intelutions.Challenge\Intelutions.Challenge.DAL\bin\Debug\netcoreapp3.1\Intelutions.Challenge.DAL.pdb
+C:\Users\Joan\Desktop\Joan\Intellutions\Intelutions.Challenge\Intelutions.Challenge.DAL\bin\Debug\netcoreapp3.1\Intelutions.Challenge.Domain.dll
+C:\Users\Joan\Desktop\Joan\Intellutions\Intelutions.Challenge\Intelutions.Challenge.DAL\bin\Debug\netcoreapp3.1\Intelutions.Challenge.Domain.pdb
+C:\Users\Joan\Desktop\Joan\Intellutions\Intelutions.Challenge\Intelutions.Challenge.DAL\obj\Debug\netcoreapp3.1\Intelutions.Challenge.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Joan\Desktop\Joan\Intellutions\Intelutions.Challenge\Intelutions.Challenge.DAL\obj\Debug\netcoreapp3.1\Intelutions.Challenge.DAL.csproj.CopyComplete
+C:\Users\Joan\Desktop\Joan\Intellutions\Intelutions.Challenge\Intelutions.Challenge.DAL\obj\Debug\netcoreapp3.1\Intelutions.Challenge.DAL.dll
+C:\Users\Joan\Desktop\Joan\Intellutions\Intelutions.Challenge\Intelutions.Challenge.DAL\obj\Debug\netcoreapp3.1\Intelutions.Challenge.DAL.pdb
+C:\Users\Joan\Desktop\Joan\Intellutions\Intelutions.Challenge\Intelutions.Challenge.DAL\obj\Debug\netcoreapp3.1\Intelutions.Challenge.DAL.genruntimeconfig.cache
